@@ -84,7 +84,7 @@ export const Header = () => {
                 whileHover={{ scale: 1.05 }}
               >
                 <span className="opacity-70">{"> "}</span>
-                TechConnect
+                404_Found
               </motion.span>
             </Link>
           </div>
